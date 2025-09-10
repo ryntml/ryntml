@@ -8,7 +8,7 @@
 - Final-year Computer Engineering student at Gazi University  
 - Passionate about Artificial Intelligence, Machine Learning, and Data Science  
 - I enjoy working on data analysis, modeling, and building intelligent systems  
-- 🛠Proficient in Python, SQL, Jupyter Notebook, and popular ML libraries  
+- Proficient in Python, SQL, Jupyter Notebook, and popular ML libraries  
 - Always learning and open to new technologies and challenges  
 
 ---

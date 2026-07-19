@@ -1,17 +1,34 @@
-<h1 align="center">Hi, I'm Reyyan 👋</h1>
-<p align="center"> CS Student @ Gazi University |  AI & Data Science Enthusiast |  Lifelong Learner</p>
+<h1 align="center">Hi, I'm Reyyan! </h1>
+<p align="center">
+  <b>Computer Engineer</b> • <b>AI & Data Science Enthusiast</b>
+</p>
+
+<p align="center">
+  Passionate about building intelligent systems with Machine Learning, Data Science, and Backend Technologies.
+</p>
 
 ---
 
 ### About Me
 
-- Final-year Computer Engineering student at Gazi University  
+- Computer Science graduate from Gazi University
 - Passionate about Artificial Intelligence, Machine Learning, and Data Science  
 - I enjoy working on data analysis, modeling, and building intelligent systems  
 - Proficient in Python, SQL, Jupyter Notebook, and popular ML libraries  
-- Always learning and open to new technologies and challenges  
+- Continuously learning modern software engineering practices and new technologies  
 
 ---
+
+
+#### Currently Learning
+
+- LLMs
+- AI Agents
+- Backend Development
+- MLOps Fundamentals
+
+---
+
 
 ###  Technologies & Tools
 
@@ -21,20 +38,13 @@
 <!-- İkonu olmayan popüler kütüphaneler yazıyla -->
 #### Also familiar with:  
 ####  Data Science Libraries  
-NumPy, Pandas, Matplotlib, Seaborn
+NumPy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels, Plotly
 
 ####  Machine Learning & NLP  
-MLflow, XGBoost, LightGBM, HuggingFace Transformers, spaCy
+Scikit-learn, MLflow, XGBoost, LightGBM, Hugging Face Transformers, spaCy, NLTK, Optuna
 
 ####  Web Frameworks & Tools  
-FastAPI, Streamlit
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryntml&show_icons=true&theme=react" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryntmln&theme=react" /> -->
-</p>
+FastAPI, Flask, Streamlit, Uvicorn, Pydantic, SQLAlchemy, REST APIs, Swagger/OpenAPI
 
 ---
 
